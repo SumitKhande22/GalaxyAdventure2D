@@ -1,0 +1,32 @@
+# Unity generated folders and unnecessary files
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+obj/
+[Ll]ogs/
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+*.tmp
+*.bak
+*.swp
+*.pidb
+*.booproj
+*.userprefs
+*.vsconfig
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Unity crash / build logs
+sysinfo.txt
