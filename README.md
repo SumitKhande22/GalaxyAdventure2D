@@ -4,9 +4,10 @@ Galaxy Adventure 2D is a 2D action-platformer game developed in Unity using C#.
 This project was created as my BCA final-year academic project.
 
 ## Project Type
-Academic Project – Guided Tutorial Based  
-Solo Developer
-
+- BCA Final-Year Academic Project
+- Solo Developer
+- Guided Tutorial-Based Development
+  
 ## Technologies Used
 - Unity
 - C#
